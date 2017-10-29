@@ -1,0 +1,1 @@
+Add C++ Practicals list for bscit

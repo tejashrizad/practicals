@@ -1,0 +1,1 @@
+Add Java Practicals list for bscit
