@@ -1,0 +1,6 @@
+This repository contains the list of basic projects for BSCIT.
+
+1.Print "HELLO WORLD" 
+2.Write a palindrome programe 
+3.write a Prime number program 
+4.Write a Armstrong Proggit add rame
