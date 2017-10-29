@@ -1,0 +1,3 @@
+#CONTRIBUTING.md
+### this file contains the information related to Contributing.
+### Kindly follow all the provided guidlines:
