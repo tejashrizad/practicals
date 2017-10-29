@@ -1,3 +1,4 @@
 # college-practicals
-college practicals for BSCIT course
-something
+### This repo contains practicals related to BSCIT course.
+###Total 10 practicals in Repo.
+
