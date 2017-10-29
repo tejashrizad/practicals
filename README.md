@@ -1,3 +1,4 @@
 # college-practicals
 college practicals for BSCIT course
-something
+
+This repository contains the list of Programs comes under subject available in BSCIT Course.
