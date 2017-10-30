@@ -1,0 +1,11 @@
+Following are the programs:
+1) Hello World
+2) Basic mathematical operations
+3) Prime numbers
+4) Palindrome number
+5) Armstrong number
+6) Find vowels
+7) Pattern printing
+8) Printing multiples of three
+9) Reversing a number
+10) Floyd's triangle
